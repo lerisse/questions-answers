@@ -15,10 +15,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="/Screenshots/Web App Reference Architecture Transparant Black.png" alt="Logo">
-
   <h3 align="center">Atelier Questions and Answers API</h3>
-
+    <img src="/Screenshots/Web App Reference Architecture Transparant Black.png" alt="Logo">
   <p align="center">
     Implementing a back-end infrastructure for client e-commerce react app.
     <br />
