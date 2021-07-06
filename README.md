@@ -67,7 +67,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Plan and implement an AWS architecture to serve ~10 Million products to the client React app. Goal was to be able to handle ~10,000 requests per second.
+Plan and implement an AWS architecture to serve ~1 Million products to the client React app. Goal was to be able to handle ~10,000 requests per second.
 
 ### List Questions
 ```sh
